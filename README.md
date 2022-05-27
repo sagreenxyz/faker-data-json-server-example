@@ -10,7 +10,7 @@ This is a simple demonstration of setting up a dummy dataset with Faker.js and s
 
 3. Run ```json-server generate.js --port 5000``` to start the server and provide access at ```http://localhost:5000```.
 
-4. The URL for the People endpoint is:  ```http://localhost:5000/people```.
+4. The URL for the People endpoint is:  [```http://localhost:5000/people```](http://localhost:5000/people).
 
 ## Resources
 
